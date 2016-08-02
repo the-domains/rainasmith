@@ -1,0 +1,28 @@
+name: rainasmith
+favicon: null
+layout_spectrum: 0.4621376511640847
+typography_spectrum: 0.3693689394276589
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5842384553980082
+  lightness: 0.7417545926291496
+  saturation: 0.8229861927684397
+  rhythmicContrast: 0.583728346042335
+purpose: []
